@@ -9,7 +9,8 @@
 <div align="center">
 
 ### 🐍 Python Backend Developer
-**Backend Development · Django · REST APIs · PostgreSQL**\n
+**Backend Development · Django · REST APIs · PostgreSQL**
+<br>
 **Clean Code** &nbsp;•&nbsp; **Business Logic** &nbsp;•&nbsp; **Database Optimization** &nbsp;•&nbsp; **Async Processing**
 
 </div>
@@ -180,29 +181,6 @@
 
 </div>
 
----
-
-## 🚀 Projects
-
-### 🚗 CarWager
-
-Real-time car auction platform built with Django.
-
-**Python · Django · PostgreSQL · Redis · Django Channels · RQ · Docker · Nginx · ELK**
-
-[View repository →](https://github.com/weibak/carwager)
-
----
-
-### 📊 VAIB Marketing Dashboard
-
-Interactive marketing analytics dashboard.
-
-**Python · Django · PostgreSQL · JavaScript · Highcharts**
-
-[View repository →](https://github.com/weibak/vaib_diagram)
-
----
 
 ## 📫 Contact
 
