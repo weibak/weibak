@@ -9,7 +9,7 @@
 <div align="center">
 
 ### 🐍 Python Backend Developer
-**Backend Development · Django · REST APIs · PostgreSQL**
+**Backend Development · Django · REST APIs · PostgreSQL**\n
 **Clean Code** &nbsp;•&nbsp; **Business Logic** &nbsp;•&nbsp; **Database Optimization** &nbsp;•&nbsp; **Async Processing**
 
 </div>
