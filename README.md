@@ -2,10 +2,6 @@
 
 # Artem Sheibak
 
-### Middle Python Developer
-
-**Backend Development · Django · REST APIs · PostgreSQL**
-
 </div>
 
 ---
@@ -13,7 +9,7 @@
 <div align="center">
 
 ### 🐍 Python Backend Developer
-
+**Backend Development · Django · REST APIs · PostgreSQL**
 **Clean Code** &nbsp;•&nbsp; **Business Logic** &nbsp;•&nbsp; **Database Optimization** &nbsp;•&nbsp; **Async Processing**
 
 </div>
