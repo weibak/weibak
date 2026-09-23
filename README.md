@@ -1,13 +1,5 @@
 <div align="center">
 
-# Artem Sheibak
-
-</div>
-
----
-
-<div align="center">
-
 ### 🐍 Python Backend Developer
 **Backend Development · Django · REST APIs · PostgreSQL**
 <br>
