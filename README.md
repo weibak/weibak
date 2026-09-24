@@ -127,7 +127,7 @@
 
 </div>
 
-`Elasticsearch` · `Logstash` · `Kibana` · `Structured Logging` · `JSON Logs`
+`Elasticsearch` · `Logstash` · `Kibana` · `Structured Logging`
 
 ---
 
